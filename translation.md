@@ -464,7 +464,7 @@ duḥsparśa [形] 难触动的	阳性单数体格 -› duḥsparśaḥ
 आत्मैवात्मनो बन्धुरात्मैव रिपुरात्मनः  ॥ ८ ॥
 ātmaivātmano bandhur ātmaiva ripur ātmanaḥ  || 8 ||
 ātman [m] 自我	单数体格 -› ātmā	单数属格 -› ātmanaḥ
-iva 正是	
+eva 正是	
 bandhu [m] 朋友	单数体格 -› bandhuḥ
 ripu [m] 敌人	单数体格 -› ripuḥ
 对于自我而言, 自我正是朋友; 对于自我而言, 自我正是敌人
